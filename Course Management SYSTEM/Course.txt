@@ -1,0 +1,6 @@
+1Structured Programming,Dr. Yasmine Afify,50
+2Math (2),Dr. Nivin Atef,12
+4Elecronics,Dr.Noha,10
+5Management,Dr.Wael,9
+6English,Dr.Amal,15
+7Introduction,Dr.Walaa,18
